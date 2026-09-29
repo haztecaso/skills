@@ -14,6 +14,12 @@ Or install all skills in this repo:
 npx skills add haztecaso/skills
 ```
 
-## [python-script](skills/python-script/SKILL.md)
+## Skills
 
-Guidance for developing python scripts with modern patterns: when to use python vs bash, self-contained scripts (PEP 723 + uv shebang) vs full uv projects, type hints, common packages, error handling, security practices, and verification with ruff/ty.
+| Skill | Description |
+|---|---|
+| [python-script](skills/python-script/SKILL.md) | Developing python scripts with modern patterns: script vs uv project, self-contained scripts (PEP 723 + uv shebang), type hints, common packages, error handling, security, verification with ruff/ty. |
+
+## License
+
+[MIT](LICENSE)
